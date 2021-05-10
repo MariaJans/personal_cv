@@ -1,4 +1,6 @@
+![](./MariaPhoto.jpg)
 # Curriculum Vitae
+
 ---
 ## Personal information:
 **Name:** Maria Jansian.  
