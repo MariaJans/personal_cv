@@ -68,4 +68,5 @@ French (good).
 * Coding.
 * Adventure.
 * Hiking.
-* Swimming.
+* Swimming.  
+* Watching series.
